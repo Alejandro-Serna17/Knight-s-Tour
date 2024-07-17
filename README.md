@@ -13,7 +13,7 @@ The C++ implementation also uses a backtracking approach to solve the Knight's T
 Simply select a starting point. Corners are usually the best option. Then compile and execute!<br />
 
 ## Sample Output<br />
-Below is a sample output. Each number represents the move number it took to get to that spot. In this sample we started at spot [0,0] (Top left corner.) <br />
+Below is a sample output. Each number represents the move number that it took to get to that spot. In this sample we started at spot [0,0] (Top left corner.) <br />
 
 &ensp;0 37 54 33  2 35 18 21<br />
 53 46 &ensp;1 36 19 22  3 16<br />
