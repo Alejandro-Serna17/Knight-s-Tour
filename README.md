@@ -5,12 +5,12 @@ This repository contains implementations of the Knight's Tour problem solver in 
 ### Overview<br />
 The Java implementation uses a backtracking algorithm to explore all possible paths on the chessboard until a solution is found or all paths have been exhausted.<br />
 
-### How to Run<br />
-Simply select a starting point. Corners are usually the best option. Then compile and execute!<br />
-
 ## C++ Implementation<br />
 ### Overview<br />
 The C++ implementation also uses a backtracking approach to solve the Knight's Tour problem. It employs recursive functions and checks for all possible moves of the knight.<br />
+
+### How to Run<br />
+Simply select a starting point. Corners are usually the best option. Then compile and execute!<br />
 
 ## Sample Output<br />
 Below is a sample output. Each number represents the move number it took to get to that spot. In this sample we started at spot [0,0] (Top left corner.) <br />
