@@ -10,7 +10,7 @@ The Java implementation uses a backtracking algorithm to explore all possible pa
 The C++ implementation also uses a backtracking approach to solve the Knight's Tour problem. It employs recursive functions and checks for all possible moves of the knight.<br />
 
 ### How to Run<br />
-Simply select a starting point. Corners are usually the best option. Then compile and execute!<br />
+Simply select a starting point. Corners are usually the best option. Then compile `g++ maain.cpp` (C++) `javac Main.java` (Java) and execute! `./a.out` (C++) `java Main` (Java)<br />
 
 ## Sample Output<br />
 Below is a sample output. Each number represents the move number that it took to get to that spot. In this sample we started at spot [0,0] (Top left corner.) <br />
